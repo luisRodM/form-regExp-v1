@@ -7,18 +7,18 @@ body.body {
 	background-color: #E5E5E5; 
 }
 
-main {
+/* main {
 	max-width: 800px;
 	width: 90%;
 	margin: auto;
 	padding: 40px;
-}
+} */
 
-.formulario{
+/* .formulario{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 20px;
-}
+} */
 
 .formulario__label{
 	display: block;
